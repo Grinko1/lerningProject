@@ -1,0 +1,19 @@
+{
+    "folders": [
+        {
+            "path": "../.."
+        }
+    ]
+} // {
+// 	"folders": [
+// 		{
+// 			"path": ".."
+// 		},
+// 		{
+// 			"path": "../../../delete"
+// 		}
+// 	],
+// 	"settings": {
+// 		"liveServer.settings.multiRootWorkspaceName": "delete"
+// 	}
+// }
